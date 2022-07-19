@@ -1,0 +1,1 @@
+import{_ as a,o as i,c as n,b as t,y as d}from"./app.72515998.js";const o={},s={class:"linkto"},p={class:"sl"},r={class:"mi"};function l(e,x,c,_,h,f){return i(),n("div",s,[t("div",p,[d(e.$slots,"default",{},void 0,!0)]),t("div",r,[d(e.$slots,"mine",{},void 0,!0)])])}var v=a(o,[["render",l],["__scopeId","data-v-2f14d810"],["__file","LinkTo.vue"]]);export{v as default};

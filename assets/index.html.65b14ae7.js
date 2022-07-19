@@ -1,0 +1,1 @@
+import{_ as o,r as t,o as n,c,a as r}from"./app.72515998.js";const s={};function _(a,l){const e=t("TodoList");return n(),c("div",null,[r(e)])}var i=o(s,[["render",_],["__file","index.html.vue"]]);export{i as default};
